@@ -43,7 +43,7 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    left: 20%;
+    left: 50%;
   }
   .outside {
     -webkit-transform-style: preserve-3d;
