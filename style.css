@@ -71,7 +71,7 @@
      #e7e7e7, #ffffff 30%);
   }
   .cake {
-    width: 80%;
+    width: 100%;
     position: absolute;
     bottom: 30px;
   }
@@ -140,5 +140,5 @@
   }
   .inside h1 {
     font-size: 100px;
-    line-height: 80px;
+    line-height: 100px;
   }
