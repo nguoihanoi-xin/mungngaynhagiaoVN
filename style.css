@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
   body {
-    background-color: #fdbf00;
+    background-color: #FFFDD0;
   }
   .card {
     width: 640px;
@@ -36,7 +36,7 @@
   .inside {
     background: linear-gradient(to right, 
     #e7e7e7, #ffffff 30%);
-    line-height: 3;
+    line-height: 1;
     padding: 0 20px;
     text-align: center;
     display: flex;
@@ -139,6 +139,6 @@
     color: #000046;
   }
   .inside h1 {
-    font-size: 80px;
+    font-size: 90px;
     line-height: 80px;
   }
